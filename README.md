@@ -59,14 +59,14 @@ There are also other arguments in `./common/arguments.py`, such as `-projl1` and
 ### Reference
 
 If you found this code useful, please cite the following paper:
-
+`
 @article{wang2021motion,
   title={Motion Projection Consistency Based 3D Human Pose Estimation with Virtual Bones from Monocular Videos},
   author={Wang, Guangming and Zeng, Honghao and Wang, Ziliang and Liu, Zhe and Wang, Hesheng},
   journal={arXiv preprint arXiv:2106.14706},
   year={2021}
 }
-
+`
 ## Acknowledgement
 
 Part of our code is borrowed from [Anatomy3D](https://github.com/sunnychencool/Anatomy3D). We thank to the authors for releasing codes.
