@@ -4,7 +4,7 @@
 
 PyTorch code of the paper "Motion Projection Consistency Based 3D Human Pose Estimation with Virtual Bones from Monocular Videos". It is built on top of [Anatomy3D](https://github.com/sunnychencool/Anatomy3D).
 
-Wang G, Zeng H, Wang Z, et al. Motion Projection Consistency Based 3D Human Pose Estimation with Virtual Bones from Monocular Videos[J]. arXiv preprint arXiv:2106.14706, 2021.[pdf](https://arxiv.org/pdf/2106.14706.pdf)
+G. Wang, H. Zeng, Z. Wang, Z. Liu and H. Wang, "Motion Projection Consistency Based 3D Human Pose Estimation with Virtual Bones from Monocular Videos," in IEEE Transactions on Cognitive and Developmental Systems, 2022, doi: 10.1109/TCDS.2022.3185146.[pdf](https://ieeexplore.ieee.org/document/9802736)
 
 ### Environment
 
