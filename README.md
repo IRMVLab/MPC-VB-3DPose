@@ -61,12 +61,15 @@ There are also other arguments in `./common/arguments.py`, such as `-projl1` and
 If you found this code useful, please cite the following paper:
 
 ```
-@article{wang2021motion,
-  title={Motion Projection Consistency Based 3D Human Pose Estimation with Virtual Bones from Monocular Videos},
+@ARTICLE{9802736,
   author={Wang, Guangming and Zeng, Honghao and Wang, Ziliang and Liu, Zhe and Wang, Hesheng},
-  journal={arXiv preprint arXiv:2106.14706},
-  year={2021}
-}
+  journal={IEEE Transactions on Cognitive and Developmental Systems}, 
+  title={Motion Projection Consistency Based 3D Human Pose Estimation with Virtual Bones from Monocular Videos}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TCDS.2022.3185146}}
 ```
 
 ## Acknowledgement
